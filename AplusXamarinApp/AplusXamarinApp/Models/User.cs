@@ -15,6 +15,7 @@ namespace AplusXamarinApp.Models
         public string UserLogin { get; set; }
         public string UserPassword { get; set; }
         public int IDProject { get; set; }
+        public string Info { get; set; }
 
     }
 }
